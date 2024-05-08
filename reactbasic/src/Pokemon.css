@@ -1,0 +1,11 @@
+.pokemon-display img
+{
+    width: 200px;
+}
+.pokemon-display
+{
+    width:300px;
+    margin: 2px;
+    padding: 5px;
+    border: 1px solid gray;
+}

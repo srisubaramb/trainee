@@ -1,0 +1,11 @@
+.display-main
+{
+    display: flex;
+    justify-content: space-between;
+}
+.display-main div
+{
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px;
+}
